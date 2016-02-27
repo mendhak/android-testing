@@ -8,4 +8,6 @@ android:
     # The SDK version used to compile your project
     - android-23
 
+before_script:
+    - cd unit/BasicSample/
 
